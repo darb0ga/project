@@ -1,0 +1,8 @@
+pip
+datetime
+sys
+csv
+sys
+PyQt5.QtWidgets
+PyQt5.QtGui
+PyQt5
